@@ -14,3 +14,4 @@ seaborn==0.12.2
 shap==0.44.0
 streamlit==1.28.2
 xgboost==2.0.1
+streamlit-extras=0.3.6
